@@ -1,0 +1,18 @@
+body{
+    font-family: 'PT Serif', serif;
+}
+h1{
+    font-size: 50px;
+}
+.Highlight{
+    color: darkgoldenrod;
+}
+.half-width{
+    width: 40%;
+    float: left;
+    margin-left: 2%;
+    padding-lef: 2%;
+}
+img{
+    size: 100%;
+}
