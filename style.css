@@ -43,3 +43,20 @@ img{
     background-image: url(images/dream.png);
     background-position:  right;
     background-repeat: no-repeat;}
+.no{
+    background-image: url(images/ee.png);
+    background-position: left;
+    background-repeat: no-repeat;
+} 
+.h2{
+    size: 40px;
+}
+.man{
+    box-shadow: 10px 10px 40px grey;
+    border-radius: 10px;
+    height: 70%;
+}#chu{
+    border-left: 7% solid;
+    border-image:linear-gradient (lightSalmon, tomato );
+    border-image-slice: 1;
+}
