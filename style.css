@@ -60,3 +60,9 @@ img{
     border-image:linear-gradient (lightSalmon, tomato );
     border-image-slice: 1;
 }
+.mani{
+    border-left: 7% solid;
+    border-image:linear-gradient (lightSalmon, tomato );
+    border-image-slice: 1;
+}
+}
